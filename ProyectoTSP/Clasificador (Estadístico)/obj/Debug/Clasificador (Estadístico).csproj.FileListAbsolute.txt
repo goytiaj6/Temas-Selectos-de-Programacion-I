@@ -1,0 +1,24 @@
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).exe.config
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).exe
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).pdb
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador__Estadístico_.Form1.resources
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador__Estadístico_.Properties.Resources.resources
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.CopyComplete
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).exe
+C:\Users\jorge\Desktop\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\Clasificador (Estadístico).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador__Estadístico_.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador__Estadístico_.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP\Clasificador (Estadístico)\obj\Debug\Clasificador (Estadístico).pdb
