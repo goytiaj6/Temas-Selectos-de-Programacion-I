@@ -1,0 +1,16 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\MatrizErrores.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\MatrizErrores.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\MatrizErrores.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\SpreadsheetLight.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\System.Drawing.Common.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\System.IO.Packaging.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\SpreadsheetLight.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\bin\Debug\System.IO.Packaging.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\obj\Debug\MatrizErrores.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\obj\Debug\MatrizErrores.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\obj\Debug\MatrizErrores.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\MatrizErrores\obj\Debug\MatrizErrores.pdb

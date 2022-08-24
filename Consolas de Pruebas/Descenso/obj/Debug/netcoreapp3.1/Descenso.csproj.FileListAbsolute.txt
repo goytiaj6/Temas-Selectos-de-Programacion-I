@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.deps.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.runtimeconfig.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\bin\Debug\netcoreapp3.1\Descenso.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.AssemblyInfo.cs
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Descenso\obj\Debug\netcoreapp3.1\Descenso.genruntimeconfig.cache
