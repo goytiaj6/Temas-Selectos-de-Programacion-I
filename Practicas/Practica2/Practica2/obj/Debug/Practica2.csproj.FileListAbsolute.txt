@@ -1,0 +1,19 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\SpreadsheetLight.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\System.Drawing.Common.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\System.IO.Packaging.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\SpreadsheetLight.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\bin\Debug\System.IO.Packaging.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica2\Practica2\obj\Debug\Practica2.pdb
