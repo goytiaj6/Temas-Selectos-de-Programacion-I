@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c7ff556c-a236-4cf3-8192-63fce8e05407" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52547/WSAmpOp.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSAmpOp.wsdl" MetadataType="Wsdl" ID="cefd98c8-7188-469a-9a39-52cfaab75b1f" SourceId="1" SourceUrl="http://localhost:52547/WSAmpOp.svc?wsdl" />
+    <MetadataFile FileName="WSAmpOp.disco" MetadataType="Disco" ID="eddd6f1f-20c2-4227-9931-d02010a1cc09" SourceId="1" SourceUrl="http://localhost:52547/WSAmpOp.svc?disco" />
+    <MetadataFile FileName="WSAmpOp.xsd" MetadataType="Schema" ID="637436b8-2d98-4f59-a22e-a66b55336314" SourceId="1" SourceUrl="http://localhost:52547/WSAmpOp.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSAmpOp1.xsd" MetadataType="Schema" ID="303c1836-cb39-42f5-b690-cc5d5a324817" SourceId="1" SourceUrl="http://localhost:52547/WSAmpOp.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSAmpOp2.xsd" MetadataType="Schema" ID="14c1f7f4-8f80-465a-8a1a-2de94d3f46ba" SourceId="1" SourceUrl="http://localhost:52547/WSAmpOp.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

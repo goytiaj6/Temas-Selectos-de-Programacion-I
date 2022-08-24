@@ -1,0 +1,7 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\bin\WcfService1.dll.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\bin\WcfService1.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\bin\WcfService1.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\obj\Debug\WSPractica1.2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica5\WcfService1\obj\Debug\WSPractica1.2.csproj.AssemblyReference.cache
