@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\bin\Debug\Clasificador(Encog).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\bin\Debug\Clasificador(Encog).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\bin\Debug\Clasificador(Encog).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador(Encog).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador_Encog_.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador_Encog_.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador(Encog).csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador(Encog).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador(Encog).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\obj\Debug\Clasificador(Encog).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\ProyectoTSP(Encog)\Clasificador(Encog)\bin\Debug\encog-core-cs.dll
