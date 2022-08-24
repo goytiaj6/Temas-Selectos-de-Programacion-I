@@ -1,0 +1,8 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\bin\Debug\PerceptronXOR.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\bin\Debug\PerceptronXOR.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\bin\Debug\PerceptronXOR.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\obj\Debug\PerceptronXOR.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\obj\Debug\PerceptronXOR.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\obj\Debug\PerceptronXOR.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\bin\Debug\encog-core-cs.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\PerceptronXOR\obj\Debug\PerceptronXOR.csproj.AssemblyReference.cache

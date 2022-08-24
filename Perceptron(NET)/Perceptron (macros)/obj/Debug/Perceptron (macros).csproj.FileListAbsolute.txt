@@ -1,0 +1,10 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\bin\Debug\Perceptron (macros).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\bin\Debug\Perceptron (macros).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\bin\Debug\Perceptron (macros).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron (macros).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron__macros_.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron__macros_.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron (macros).csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron (macros).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron (macros).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron\Perceptron (macros)\obj\Debug\Perceptron (macros).pdb

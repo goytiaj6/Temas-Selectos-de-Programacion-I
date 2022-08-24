@@ -1,0 +1,9 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\bin\Debug\Perceptron(NET).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\bin\Debug\Perceptron(NET).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\bin\Debug\Perceptron(NET).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\obj\Debug\PerceptronAND.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\obj\Debug\PerceptronAND.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\obj\Debug\Perceptron(NET).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\obj\Debug\Perceptron(NET).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\bin\Debug\encog-core-cs.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Perceptron(NET)\Perceptron(NET)\obj\Debug\PerceptronAND.csproj.CopyComplete
