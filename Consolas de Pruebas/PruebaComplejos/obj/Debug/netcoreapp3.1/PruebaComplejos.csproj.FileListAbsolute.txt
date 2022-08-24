@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.deps.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.runtimeconfig.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\bin\Debug\netcoreapp3.1\PruebaComplejos.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.AssemblyInfo.cs
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\PruebaComplejos\obj\Debug\netcoreapp3.1\PruebaComplejos.genruntimeconfig.cache

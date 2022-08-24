@@ -1,0 +1,16 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.deps.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.runtimeconfig.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\Consola de Pruebas.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.AssemblyInfo.cs
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\obj\Debug\netcoreapp3.1\Consola de Pruebas.genruntimeconfig.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pruebas\bin\Debug\netcoreapp3.1\MATLAB Library.pdb
