@@ -1,0 +1,13 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\bin\Debug\Practica1 (Entregable).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\bin\Debug\Practica1 (Entregable).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\bin\Debug\Practica1 (Entregable).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1__Entregable_.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1__Entregable_.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\obj\Debug\Practica1 (Entregable).csproj.CopyComplete
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practica1\Practica1 (Entregable)\bin\Debug\MATLAB Library.pdb
