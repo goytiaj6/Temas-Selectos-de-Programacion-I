@@ -1,0 +1,10 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\bin\Debug\Practica4 (Recibir).exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\bin\Debug\Practica4 (Recibir).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\bin\Debug\Practica4 (Recibir).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4 (Recibir).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4__Recibir_.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4__Recibir_.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4 (Recibir).csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4 (Recibir).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4 (Recibir).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4 (Recibir)\obj\Debug\Practica4 (Recibir).pdb

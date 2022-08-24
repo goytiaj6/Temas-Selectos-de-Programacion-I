@@ -1,0 +1,10 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Practicas\Practica4\Practica4\obj\Debug\Practica4.Form1.resources
