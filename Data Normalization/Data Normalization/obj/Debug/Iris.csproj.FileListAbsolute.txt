@@ -1,0 +1,18 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Iris.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Data_Normalization.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Data_Normalization.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Iris.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Iris.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\Data Normalization.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\Data Normalization.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\Data Normalization.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\encog-core-cs.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\SpreadsheetLight.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\System.Drawing.Common.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\System.IO.Packaging.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\SpreadsheetLight.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\bin\Debug\System.IO.Packaging.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Data Normalization.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Data Normalization\Data Normalization\obj\Debug\Data Normalization.pdb
