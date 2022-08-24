@@ -1,0 +1,16 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.deps.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.runtimeconfig.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.AssemblyInfo.cs
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\obj\Debug\netcoreapp3.1\Pendiente.genruntimeconfig.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\MATLAB Library.pdb

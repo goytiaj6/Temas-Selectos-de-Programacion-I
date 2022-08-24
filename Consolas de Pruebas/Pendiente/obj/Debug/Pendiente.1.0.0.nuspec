@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pendiente</id>
+    <version>1.0.0</version>
+    <authors>Pendiente</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.runtimeconfig.json" target="lib\netcoreapp3.1\Pendiente.runtimeconfig.json" />
+    <file src="C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Pendiente\bin\Debug\netcoreapp3.1\Pendiente.dll" target="lib\netcoreapp3.1\Pendiente.dll" />
+  </files>
+</package>
