@@ -1,0 +1,12 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\bin\Debug\Coulomb - Curva Error y pendiente.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\bin\Debug\Coulomb - Curva Error y pendiente.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\bin\Debug\Coulomb - Curva Error y pendiente.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb - Curva Error y pendiente.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb___Curva_Error_y_pendiente.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb___Curva_Error_y_pendiente.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb - Curva Error y pendiente.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb - Curva Error y pendiente.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb - Curva Error y pendiente.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\obj\Debug\Coulomb - Curva Error y pendiente.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Coulomb - Curva Error y pendiente\Coulomb - Curva Error y pendiente\bin\Debug\MATLAB Library.pdb
