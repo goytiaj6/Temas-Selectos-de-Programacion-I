@@ -1,0 +1,12 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\bin\Debug\DistribucionTomatesJitomates.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\bin\Debug\DistribucionTomatesJitomates.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\bin\Debug\DistribucionTomatesJitomates.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionTomatesJitomates\obj\Debug\DistribucionTomatesJitomates.pdb

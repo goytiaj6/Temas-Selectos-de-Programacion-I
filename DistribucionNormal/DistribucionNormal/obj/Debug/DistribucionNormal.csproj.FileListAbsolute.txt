@@ -1,0 +1,12 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\bin\Debug\DistribucionNormal.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\bin\Debug\DistribucionNormal.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\bin\Debug\DistribucionNormal.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.Form1.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.Properties.Resources.resources
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\obj\Debug\DistribucionNormal.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\DistribucionNormal\DistribucionNormal\bin\Debug\MATLAB Library.pdb
