@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).exe
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).deps.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).runtimeconfig.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).runtimeconfig.dev.json
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\bin\Debug\netcoreapp3.1\Practica1(Previo).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).AssemblyInfo.cs
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\Pruebas\Practica1(Previo)\obj\Debug\netcoreapp3.1\Practica1(Previo).genruntimeconfig.cache
